@@ -18,10 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.view.backgroundColor = [UIColor redColor];
-<<<<<<< HEAD
     self.view.backgroundColor = [UIColor grayColor];
-=======
->>>>>>> parent of f988fd1... 1124
+    //1135
 }
 
 
